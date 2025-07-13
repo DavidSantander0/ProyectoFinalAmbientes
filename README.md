@@ -14,8 +14,8 @@ Se integra con un backend simulado usando `json-server`, y está listo para corr
 
 ### 1. Clona el repositorio
 
-[git clone (https://github.com/DavidSantander0/ProyectoFinalAmbientes.git)]
-cd nombre-del-repo
+git clone (https://github.com/DavidSantander0/ProyectoFinalAmbientes.git)
+cd ventas-app
 ### 2. Instala dependencias
 npm install
 ### 3. Levanta el servidor simulado
