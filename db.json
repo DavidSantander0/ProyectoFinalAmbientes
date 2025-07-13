@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Ana Torres",
+      "correo": "ana@correo.com",
+      "telefono": "099998877",
+      "direccion": "Quito"
+    },
+    {
+      "id": 0,
+      "nombre": "David",
+      "correo": "davidsuper7575@gmail.com",
+      "telefono": "0983423590",
+      "direccion": "sangolqui"
+    }
+  ]
+}
