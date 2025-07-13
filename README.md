@@ -14,7 +14,7 @@ Se integra con un backend simulado usando `json-server`, y está listo para corr
 
 ### 1. Clona el repositorio
 
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+[git clone (https://github.com/DavidSantander0/ProyectoFinalAmbientes.git)]
 cd nombre-del-repo
 ### 2. Instala dependencias
 npm install
