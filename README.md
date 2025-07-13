@@ -10,7 +10,7 @@ Se integra con un backend simulado usando `json-server`, y está listo para corr
 - Rutas limpias: `/clientes`, `/clientes/nuevo`, `/clientes/editar/:id`, `/clientes/:id`
 - Interfaz visual con Angular Material
 
-## 🚀 Cómo levantar el proyecto
+## Cómo levantar el proyecto
 
 ### 1. Clona el repositorio
 
